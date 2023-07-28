@@ -1,2 +1,1 @@
-Sora885 = Valid
-Key = Invalid
+Sora885 = Invalid
