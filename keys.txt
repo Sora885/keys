@@ -1,2 +1,2 @@
-Sora885 = Invalid
+Sora885 = Valid
 Key = Valid
